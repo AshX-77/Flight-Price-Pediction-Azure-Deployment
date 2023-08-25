@@ -11,3 +11,5 @@ Steps:
 5. Creating my account on Microsoft Azure
 6. Linking my Azure account to my Github account
 7. Deploying and testing my app
+
+https://github.com/AshX-77/Flight-Price-Pediction-Azure-Deployment/assets/120383256/3b7fb867-8ee5-43e4-9c4e-48e576da10ee
